@@ -20,7 +20,7 @@ This is a Laravel application that allows you to import product data from a CSV 
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-laravel-product-importer.git
+git clone https://github.com/usman2123/productimporter
 Install project dependencies:
 bash
 Copy code
